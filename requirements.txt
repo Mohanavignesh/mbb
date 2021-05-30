@@ -3,5 +3,5 @@ numpy==1.17.2
 transformers==2.10.0
 newspaper3k==0.2.8
 
-pytorch-transformers==1.2.0
+https://download.pytorch.org/whl/cpu/torch-1.2.0-cp36-cp36m-linux_x86_64.whl
 nltk==3.5
